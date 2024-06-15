@@ -1,0 +1,5 @@
+// chatgpt is the name of directory which is inside 2 folders:
+   C:\Users\ayush\OneDrive\Desktop\Chatgpt- Clone\project\clone
+// Inside chatgpt i have created another folder chhatgpt
+// chatgpt = project and chat = App and venv=Virtual Environment
+// openai API documentation
