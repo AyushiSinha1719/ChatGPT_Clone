@@ -49,4 +49,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 ## Screenshots of the Website
-![Screenshot](./media/Screenshot%20(57).png)
+![Screenshot](ss.png)
